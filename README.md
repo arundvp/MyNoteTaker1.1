@@ -117,16 +117,11 @@ If you make changes to your app, simply commit your code, and then use `git push
    - To delete an existing note, locate the note in the left-hand column and click the associated Delete icon.
    - Confirm the deletion when prompted. The note will be removed from the list of existing notes.
 
-6. Edit an Existing Note:
-   - To edit an existing note, click on the title of the note in the left-hand column to display its details in the right-hand column.
-   - Update the note's title and text in the input fields.
-   - Click the Save icon to save the changes to the note.
-
-7. Application Persistence:
+6. Application Persistence:
    - The Note Taker application persists your notes even after closing and reopening the application.
    - The notes are stored in a `db.json` file on the server, allowing you to retrieve and manage them across sessions.
 
-8. Deployment (Heroku):
+7. Deployment (Heroku):
    - The application can be deployed on Heroku to make it accessible on the web. Follow the provided installation instructions to deploy the app on Heroku.
   
    
