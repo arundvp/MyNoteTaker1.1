@@ -90,7 +90,7 @@ If you make changes to your app, simply commit your code, and then use `git push
 
 ### Sample Deployment 
 
-[![heroku deployment](./snapes/deployment-app-heroku.png)]
+![heroku deployment](./snapes/deployment-app-heroku.png)
 
   
   ## Usage <a name="usage"></a>
@@ -139,7 +139,7 @@ If you make changes to your app, simply commit your code, and then use `git push
   
   ## Sample Application <a name="sample-application"></a>
   
-  [![Sample Application](./snapes/deployed-app-heroku.png)]
+  ![Sample Application](./snapes/deployed-app-heroku.png)
   
   ## Questions <a name="questions"></a>
   If you have any questions, please contact me at arun@arun.com. 
